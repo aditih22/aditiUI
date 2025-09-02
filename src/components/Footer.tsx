@@ -1,5 +1,4 @@
 import React from "react";
-import {  MessageCircle } from "lucide-react";
 import { ArrowUpRight } from "lucide-react";
 import CustomeText from "./ui/CustomeText";
 import Link from "next/link";
