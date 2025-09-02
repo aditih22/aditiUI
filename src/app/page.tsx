@@ -3,9 +3,7 @@ import CustomeText from "@/components/ui/CustomeText";
 import DualToggleButtons from "@/components/ui/DualButtons";
 import Image from "next/image";
 import { Star } from "lucide-react";
-import OrangeButton from "@/components/ui/OrangeButton";
-import ArrowButton from "@/components/ui/ArrowButton";
-import { experiences, buttons, iconAndText, skills, blogs, portfolioData, cardData, reviews } from '../data/data';
+import { experiences, buttons, iconAndText, skills,portfolioData, cardData, reviews } from '../data/data';
 import { GenericSlider } from "@/components/ui/GenericSlider";
 import ClientOnly from "@/components/ui/ClientOnly";
 
